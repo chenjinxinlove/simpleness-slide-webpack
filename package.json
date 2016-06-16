@@ -1,0 +1,21 @@
+{
+  "name": "slide",
+  "version": "1.0.0",
+  "description": "slide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "chen",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "jquery": "^3.0.0",
+    "json-loader": "^0.5.4",
+    "scss-loader": "0.0.1",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.1"
+  }
+}
